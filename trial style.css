@@ -1,0 +1,21 @@
+.container{
+height: 50vh;
+width: 50vw;
+margin: auto;
+background-color: brown;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.card{
+height: 50%;
+width: 50%;
+z-index: 3;
+background-color: aliceblue;
+background-image: url("food3.jpg");
+background-position: center;
+background-repeat: no-repeat; 
+background-size: cover;
+
+}
