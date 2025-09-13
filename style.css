@@ -109,11 +109,11 @@ img {
     height: 100px;
 }
 
-/* ✅ Responsive adjustment for small screens */
+
 @media (max-width: 1100px) {
     .card { width: 300px; }
 }
 @media (max-width: 960px) {
     body { justify-content: center; }
-    .card { width: 90%; }           /* Stack in smaller devices */
+    .card { width: 90%; }
 }
